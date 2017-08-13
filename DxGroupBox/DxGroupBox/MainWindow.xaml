@@ -1,0 +1,11 @@
+﻿<dx:DXWindow x:Class="DxGroupBox.MainWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+             xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
+             xmlns:views="clr-namespace:DxGroupBox.Views"
+             Title="MainWindow" Height="500" Width="600">
+    <Grid>
+        <views:GroupView></views:GroupView>
+    </Grid>
+</dx:DXWindow>
