@@ -1,0 +1,14 @@
+D:\Projects\WPF\MVVMSample\MVVMSample\bin\Debug\MVVMSample.exe.config
+D:\Projects\WPF\MVVMSample\MVVMSample\bin\Debug\MVVMSample.exe
+D:\Projects\WPF\MVVMSample\MVVMSample\bin\Debug\MVVMSample.pdb
+D:\Projects\WPF\MVVMSample\MVVMSample\obj\Debug\MVVMSample.csprojResolveAssemblyReference.cache
+D:\Projects\WPF\MVVMSample\MVVMSample\obj\Debug\MainWindow.g.cs
+D:\Projects\WPF\MVVMSample\MVVMSample\obj\Debug\App.g.cs
+D:\Projects\WPF\MVVMSample\MVVMSample\obj\Debug\MVVMSample_MarkupCompile.cache
+D:\Projects\WPF\MVVMSample\MVVMSample\obj\Debug\MVVMSample_MarkupCompile.lref
+D:\Projects\WPF\MVVMSample\MVVMSample\obj\Debug\MainWindow.baml
+D:\Projects\WPF\MVVMSample\MVVMSample\obj\Debug\MVVMSample.g.resources
+D:\Projects\WPF\MVVMSample\MVVMSample\obj\Debug\MVVMSample.Properties.Resources.resources
+D:\Projects\WPF\MVVMSample\MVVMSample\obj\Debug\MVVMSample.csproj.GenerateResource.Cache
+D:\Projects\WPF\MVVMSample\MVVMSample\obj\Debug\MVVMSample.exe
+D:\Projects\WPF\MVVMSample\MVVMSample\obj\Debug\MVVMSample.pdb
